@@ -1,3 +1,3 @@
 # crypto-jo.me/
 
-the world's only site about me!
+The world's only site about me!
