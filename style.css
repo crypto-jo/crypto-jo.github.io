@@ -9,7 +9,7 @@ body {
     body a:hover {
       color: yellow; }
   body .content {
-    background: url("images/background.png") no-repeat top right;
+    background: url("images/background.jpg") no-repeat top right;
     height: 1398px;
     width: 1600px;
     margin: 0 0 0 auto;
