@@ -1,8 +1,8 @@
 body {
   margin: 0px;
-  background-color: black;
+  background-color: white;
   font-family: Helvetica Neue, Helvetica;
-  color: white; }
+  color: black; }
   body a {
     color: orange;
     text-decoration: none; }
@@ -10,8 +10,8 @@ body {
       color: yellow; }
   body .content {
     background: url("images/background.jpg") no-repeat top right;
-    height: 1398px;
-    width: 1600px;
+    height: 50%;
+    width: 50%;
     margin: 0 0 0 auto;
     padding-left: 50px; }
     body .content h1 {
